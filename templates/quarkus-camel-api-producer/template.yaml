@@ -78,7 +78,7 @@ spec:
           title: Cluster domain
           type: string
           description: Cluster domain (like apps.example.com)
-          default: apps.cluster-4tjvw.4tjvw.sandbox2290.opentlc.com
+          default: apps.cluster-x56f8.x56f8.sandbox2954.opentlc.com
 
   steps:
     - id: template
